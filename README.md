@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @longyongyou (龙永游)
+- 👋 Hi, I’m @longyongyou
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
